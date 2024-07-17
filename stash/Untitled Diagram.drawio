@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T10:27:31.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="19hp8PlOiSvgGcNz-N48" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T10:29:18.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PihnK8WIUosNACjHccdF" version="24.6.4" type="github">
   <diagram name="Page-1" id="XzWtF4XP_iAmrnIMXCRm">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,20 @@
         <mxCell id="HhxakAEyFk_g9ME8UOxu-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;comic=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="530" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="HhxakAEyFk_g9ME8UOxu-2" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;grid-layout&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="110" height="40" as="geometry" />
+        <mxCell id="HhxakAEyFk_g9ME8UOxu-2" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;grid-layout, 负责拖拽布局&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HhxakAEyFk_g9ME8UOxu-3" value="" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="470" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="HhxakAEyFk_g9ME8UOxu-4" value="comp-wrap" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="80" height="30" as="geometry" />
+        <mxCell id="HhxakAEyFk_g9ME8UOxu-4" value="comp-wrap，负责被拖拽元素添加额外的工具" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhxakAEyFk_g9ME8UOxu-6" value="" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="380" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="HhxakAEyFk_g9ME8UOxu-7" value="component" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="90" height="30" as="geometry" />
+        <mxCell id="HhxakAEyFk_g9ME8UOxu-7" value="component 本体" style="whiteSpace=wrap;html=1;comic=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
